@@ -1,7 +1,6 @@
 {
   "name": "gared/php-fints",
   "description": "PHP Library for the protocols fints and hbci",
-  "version": "4.1.0",
   "license": "MIT",
   "autoload": {
     "psr-4": {
