@@ -1,7 +1,6 @@
 {
-  "name": "nemiah/php-fints",
+  "name": "gared/php-fints",
   "description": "PHP Library for the protocols fints and hbci",
-  "homepage": "https://github.com/nemiah/phpFinTS",
   "version": "4.1.0",
   "license": "MIT",
   "autoload": {

@@ -1,7 +1,5 @@
 # PHP FinTS/HBCI library
 
-[![CI status](https://github.com/nemiah/phpFinTS/actions/workflows/tests.yml/badge.svg)](https://github.com/nemiah/phpFinTS/actions/workflows/tests.yml)
-
 A PHP library implementing the following functions of the FinTS/HBCI protocol:
 
  * Get accounts
